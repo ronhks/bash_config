@@ -109,6 +109,7 @@ alias ......='cd ../../..'
 #Git zsh aliases
 alias ga='git add'
 alias gacom='git add . && git commit -m'
+alias gadog='git adog'
 alias gau='git add -u'
 alias gaa='git add --all'
 alias gapa='git add --patch'
