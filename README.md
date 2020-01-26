@@ -1,2 +1,2 @@
 # bash_config
-This is my private .bashrc
+This is my private .bashrc / .gitconfig etc place
